@@ -2,7 +2,6 @@
 <br/><br/>
 
 ## Notes
-<br/><br/>
 ### Feign Client
 
 1. add the dependency
